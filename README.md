@@ -1,1 +1,2 @@
-# Lectures_KI
+# Presentation slides from my lectures at the KI
+
